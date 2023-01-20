@@ -1,0 +1,1 @@
+# magasinGeneral-phpPOO
